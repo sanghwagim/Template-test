@@ -58,9 +58,9 @@ body {
 }
 
 
-.fa-quote-left { 
+.fa-quote-left, .fa-quote-right { 
 
-    font-size : 4rem;
+    font-size : 3rem;
 
 }
 
